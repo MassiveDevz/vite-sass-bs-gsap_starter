@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # vite-sass-bs-gsap_starter
 
 ## How to use
